@@ -1,2 +1,3 @@
-# conf_slides
-Repository with materials from all the conference talks I gave so far.
+# conf-slides
+
+Repository that contains slides from talks that TrainIT trainers gave on various conferences and events.
